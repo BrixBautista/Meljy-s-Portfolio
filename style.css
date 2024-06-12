@@ -709,3 +709,13 @@ p {
 	}
 }
 /* End  Media Query For Desktop */
+
+
+/* Brix Contribution - footer css */
+
+#forDate{
+	width: 100vw;
+	background-image: linear-gradient(60deg,#5d6772 100%, #1f2933 0%, #5d6772 100%);
+    text-align: center;
+}
+/* -end- */
